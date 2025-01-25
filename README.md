@@ -4,7 +4,7 @@
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-222?&logo=JavaScript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-222?&logo=TypeScript)
-  ![Swift](https://img.shields.io/badge/-swift-222?&logo=swift)
+  ![Rust](https://img.shields.io/badge/-Rust-222?&logo=rust&logoColor=white)
 
 - Frontend
 
@@ -15,6 +15,7 @@
   ![React](https://img.shields.io/badge/-ReactQuery-222?&logo=reactquery)
   ![Redux Tk](https://img.shields.io/badge/-Redux-222?&logo=Redux&logoColor=764ABC)
   ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-222?&logo=TailwindCSS&logoColor=06B6D4)
+  ![styledcomponents](https://img.shields.io/badge/-TailwindCSS-222?&logo=styledcomponents&logoColor=#DB7093)
 
 - Backend
 
@@ -22,13 +23,14 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-222?&logo=Node.js)
   ![Express](https://img.shields.io/badge/-Express-222?&logo=Express)
   ![Prisma](https://img.shields.io/badge/Prisma-222?logo=Prisma&logoColor=white)
+  ![Drizzle](https://img.shields.io/badge/-Drizzle-222?&logo=drizzle)
   ![Supabase](https://img.shields.io/badge/-Supabase-222?&logo=supabase)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222?&logo=PostgreSQL&logoColor=4169E1)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-222?&logo=MongoDB&logoColor=47A248)
+  ![Socket.io](https://img.shields.io/badge/-Socket.io-222?&logo=Socket.io)
+
 
 - Libraries and tools
   
   ![Git](https://img.shields.io/badge/-Git-222?style=flat&logo=git)
   ![Docker](https://img.shields.io/badge/-Docker-222?style=flat&logo=docker)
-  ![Socket.io](https://img.shields.io/badge/-Socket.io-222?&logo=Socket.io)
-  ![Figma](https://img.shields.io/badge/-Figma-222?&logo=figma)
+  ![InkScape](https://img.shields.io/badge/-Inkscape-222?&logo=inkscape)
