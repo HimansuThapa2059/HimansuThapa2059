@@ -4,7 +4,7 @@
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-222?&logo=JavaScript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-222?&logo=TypeScript)
-  ![Rust](https://img.shields.io/badge/-Rust-222?&logo=rust&logoColor=white)
+  ![Rust](https://img.shields.io/badge/-Python-222?&logo=python)
 
 - Frontend
 
