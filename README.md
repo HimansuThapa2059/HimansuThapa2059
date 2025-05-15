@@ -15,7 +15,7 @@
   ![React](https://img.shields.io/badge/-ReactQuery-222?&logo=reactquery)
   ![Redux Tk](https://img.shields.io/badge/-Redux-222?&logo=Redux&logoColor=764ABC)
   ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-222?&logo=TailwindCSS&logoColor=06B6D4)
-  ![styledcomponents](https://img.shields.io/badge/-styled_components-222?&logo=styledcomponents&logoColor=#DB7093)
+  ![styledcomponents](https://img.shields.io/badge/-Styled_Components-222?&logo=styledcomponents&logoColor=#DB7093)
 
 - Backend
 
